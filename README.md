@@ -1,4 +1,4 @@
-<img width="1892" height="737" alt="image" src="https://github.com/user-attachments/assets/12f209c1-4d83-4ad6-957f-3780d5c982f0" />Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bu Kai Yean
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bu Kai Yean
 ====================================================================================================================================
 
 Software Developer
